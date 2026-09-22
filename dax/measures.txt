@@ -1,0 +1,7 @@
+Avg_Lead_Time       = AVERAGE('global_supply_chain_risk_2026'[Lead_Time_Days])
+Avg_Reliability     = AVERAGE('global_supply_chain_risk_2026'[Carrier_Reliability_Score])
+Total_Weight_MT     = SUM('global_supply_chain_risk_2026'[Weight_MT])
+Disruption_Rate_PCT = AVERAGE('global_supply_chain_risk_2026'[Disruption_Occurred])
+Avg_Distance        = AVERAGE('global_supply_chain_risk_2026'[Distance_km])
+Avg_Weight          = AVERAGE('global_supply_chain_risk_2026'[Weight_MT])
+Sample_n            = COUNTROWS('global_supply_chain_risk_2026')
