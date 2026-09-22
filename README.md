@@ -4,7 +4,7 @@ An Excel + Power Query + DAX cockpit built on 5,000 shipment records, designed
 to surface weather, geopolitical, fuel-price, and data-quality risk across four
 transport modes.
 
-![Dashboard](images/dashboard.png)(images/engineering_notes(1).png)(images/engineering_notes(2).png)(images/engineering_notes(3).png)
+[Dashboard](images/dashboard.png)
 
 ## Overview
 
